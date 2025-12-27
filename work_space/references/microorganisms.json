@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Escherichia coli",
+    "type": "Бактерия",
+    "optimal_temp": 37.0,
+    "optimal_ph": 7.0
+  },
+  {
+    "id": 2,
+    "name": "Saccharomyces cerevisiae",
+    "type": "Дрожжи",
+    "optimal_temp": 30.0,
+    "optimal_ph": 5.5
+  },
+  {
+    "id": 3,
+    "name": "Bacillus subtilis",
+    "type": "Бактерия",
+    "optimal_temp": 37.0,
+    "optimal_ph": 7.0
+  },
+  {
+    "id": 4,
+    "name": "Pseudomonas aeruginosa",
+    "type": "Бактерия",
+    "optimal_temp": 37.0,
+    "optimal_ph": 7.2
+  },
+  {
+    "id": 5,
+    "name": "Lactococcus lactis",
+    "type": "Бактерия",
+    "optimal_temp": 30.0,
+    "optimal_ph": 6.5
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "floating_toolbar_state": {
+    "x": 0,
+    "y": 0,
+    "dock": "left",
+    "orientation": "vertical",
+    "visible": true
+  },
+  "window_visibility": {
+    "control_panel": true,
+    "visualization": true,
+    "monitoring": true,
+    "statusbar": true,
+    "icon_toolbar": true
+  },
+  "toolbar_state": {
+    "visible": true
+  },
+  "experiment_control_panel_state": {
+    "x": 60,
+    "y": 0,
+    "w": 500,
+    "h": 1194
+  },
+  "plot_checkpoints": {
+    "temperature_c": false,
+    "humidity": false,
+    "ph": false,
+    "light_lux": false,
+    "harvest_rate": false,
+    "feed_rate": false,
+    "aeration_lpm": false,
+    "glucose": false,
+    "osmolality": false,
+    "do_percent": false,
+    "stirring_rpm": false,
+    "biomass": false,
+    "viability": false,
+    "gas:CO2": false
+  },
+  "plot_panel_state": {
+    "x": 0,
+    "y": 0,
+    "w": 716,
+    "h": 962,
+    "mode": "tabs",
+    "visible": false,
+    "active_key": null
+  },
+  "log_panel_height": 122,
+  "culture_growth_table_visible_rows": 40,
+  "exp_panel_height": 636,
+  "experiment_dashboard_state": {
+    "selected_tile_key": "glucose",
+    "limits": {
+      "do": {
+        "lo": 80.0,
+        "hi": 85.0
+      }
+    },
+    "db_path": "D:\\Python projects\\bio_simulator\\data\\microbiology.db",
+    "selected_metric_key": "temperature_c",
+    "auto_ph": false,
+    "ph_setpoint": 7.4,
+    "ph_kp": 8.0,
+    "inoculation": "1×10^6",
+    "tile_size": 180
+  }
+}

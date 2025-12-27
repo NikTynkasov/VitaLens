@@ -1,0 +1,20 @@
+{
+  "name": "Эксперимент_20251212_223121",
+  "description": "Исследование роста микроорганизмов",
+  "created": "2025-12-12T22:33:56.880905",
+  "parameters": {
+    "duration_hours": 24,
+    "record_freq_min": 5,
+    "temperature": 37.0,
+    "ph": 7.0,
+    "light": 50,
+    "oxygen": 21,
+    "humidity": 80,
+    "growth_rate": 0.5,
+    "lag_time": 1.0,
+    "experiment_type": "Рост микроорганизмов"
+  },
+  "data": [],
+  "microorganisms": [],
+  "status": "created"
+}

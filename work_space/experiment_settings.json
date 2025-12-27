@@ -1,0 +1,38 @@
+{
+  "exp_name": "Эксперимент",
+  "duration": 1,
+  "vessel": {
+    "id": "9",
+    "name": "Биореактор 2 л с подачей",
+    "type": "Фед-батч",
+    "volume": 2.0
+  },
+  "medium": {
+    "id": "16",
+    "name": "Glycerol Minimal Medium"
+  },
+  "culture": {
+    "id": "9",
+    "name": "Salmonella enterica (Typhimurium LT2)"
+  },
+  "conditions": {
+    "temperature_c": 37.0,
+    "humidity": 60,
+    "humidity_enabled": false,
+    "gases": {
+      "O2": 21.0,
+      "CO2": 5.0,
+      "N2": 74.0
+    },
+    "ph": 7.4,
+    "do_percent": 100.0,
+    "osmolality": 300.0,
+    "glucose": 0.0,
+    "stirring_rpm": 0,
+    "aeration_lpm": 0.0,
+    "feed_rate": 0.0,
+    "harvest_rate": 0.0,
+    "light_lux": 0.0,
+    "light_cycle": ""
+  }
+}
